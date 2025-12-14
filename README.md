@@ -64,16 +64,6 @@
 
 ---
 
-## Recommended Pinned Repositories
-📌 Pin these repositories on your GitHub profile (top picks for recruiters):
-1. **urban-grocers-test-design**
-2. **urban-routes-equivalence-testing**
-3. **urban-routes-regression-testing**
-4. **urban-Routes-Car-Sharing**
-5. **daulises** (this profile README)
-
----
-
 ## Resume
 📄 **Download my resume:** [CV - Daniel Ulises Chávez Morales](assets/resume.pdf)
 
