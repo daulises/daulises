@@ -48,7 +48,8 @@
 ## About
 - 🔎 Focus: **Functional, Regression, and API Testing**
 - 🧩 Test Design: **Equivalence Classes & Boundary Value Analysis**
-- 🤖 Automation (Basic): **Selenium (Python)** and **Cypress**
+- 🤖 Automation (Basic): **Selenium (Python)** and **Cypress
+**
 - 🧰 Tools: **Postman, Jira, Chrome DevTools, GitHub**
 
 ---
@@ -59,7 +60,7 @@
 | **[Urban Grocers – Test Design](https://github.com/daulises/urban-grocers-test-design)** | Test design & business rules | Test cases, structured documentation |
 | **[Urban Routes – Equivalence Testing](https://github.com/daulises/urban-routes-equivalence-testing)** | Equivalence classes | Positive/negative scenarios, coverage |
 | **[Urban Routes – Regression Testing](https://github.com/daulises/urban-routes-regression-testing)** | Regression validation | Stability checks after changes/fixes |
-| **[Urban Routers – Car Sharing](https://github.com/daulises/urban-Routers-Car-Sharing)** | User flows validation | Functional scenarios & QA documentation |
+| **[Urban Routes – Car Sharing](https://github.com/daulises/urban-Routers-Car-Sharing)** | User flows validation | Functional scenarios & QA documentation |
 
 ---
 
