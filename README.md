@@ -46,11 +46,15 @@
 ---
 
 ## About
-- 🔎 Focus: **Functional, Regression, and API Testing**
-- 🧩 Test Design: **Equivalence Classes & Boundary Value Analysis**
-- 🤖 Automation (Basic): **Selenium (Python)** and **Cypress
-**
-- 🧰 Tools: **Postman, Jira, Chrome DevTools, GitHub**
+- QA Engineer con enfoque en pruebas funcionales, de regresión y API testing.
+
+Tengo experiencia práctica diseñando y ejecutando casos de prueba, validando endpoints REST y documentando defectos con herramientas como Jira. He trabajado con Postman, Selenium (Python) y Cypress para validar flujos críticos en aplicaciones web.
+
+Me enfoco en identificar errores que impactan la experiencia del usuario y en asegurar la calidad del software mediante pruebas estructuradas y análisis de requisitos.
+
+Actualmente busco una oportunidad como QA Engineer Jr donde pueda aportar valor desde el primer día.
+
+- 🧰 Tools: **Postman, Jira, Chrome DevTools, Pytest, Figma, Android Studio, Cypress, Selemium WebDriver, Git**
 
 ---
 
