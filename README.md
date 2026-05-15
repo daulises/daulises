@@ -4,9 +4,16 @@
 </p>
 
 <h1 align="center">QA Engineer</h1>
+
 <p align="center">
-  Manual &amp; Automated Testing | API Testing | Test Design
+  QA Engineer Jr | Web Testing | API Testing | Selenium | Postman
 </p>
+
+<p align="center">
+  🔍 Testing enfocado en detección de bugs críticos, validación de APIs y calidad de software
+</p>
+
+---
 
 <!-- Contact links -->
 <p align="center">
@@ -16,14 +23,29 @@
   <a href="mailto:daulisescm@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-daulisescm%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.facebook.com/Daulises" target="_blank">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
 </p>
 
 ---
 
-## Skills
+## 🚀 About Me
+
+QA Engineer Jr con experiencia práctica en pruebas funcionales, de regresión y API testing.
+
+He trabajado en validación de aplicaciones web y sistemas backend, diseñando casos de prueba efectivos, ejecutando escenarios críticos y detectando defectos que impactan la lógica de negocio y la experiencia del usuario.
+
+Tengo experiencia validando APIs REST con Postman, verificando consistencia en base de datos y documentando bugs con evidencia clara en Jira.
+
+🎯 Enfocado en:
+- Detección de bugs críticos  
+- Validación de lógica de negocio  
+- Consistencia entre frontend, backend y base de datos  
+
+Actualmente busco una oportunidad como QA Engineer Jr donde pueda aportar valor desde el primer día.
+
+---
+
+## 🧠 Skills
+
 <p>
   <img alt="Functional Testing" src="https://img.shields.io/badge/Functional_Testing-555555?style=flat" />
   <img alt="Regression Testing" src="https://img.shields.io/badge/Regression_Testing-555555?style=flat" />
@@ -45,36 +67,41 @@
 
 ---
 
-## About
-- QA Engineer con enfoque en pruebas funcionales, de regresión y API testing.
+## 🧪 Featured Project
 
-Tengo experiencia práctica diseñando y ejecutando casos de prueba, validando endpoints REST y documentando defectos con herramientas como Jira. He trabajado con Postman, Selenium (Python) y Cypress para validar flujos críticos en aplicaciones web.
+### 🔹 QA Testing Project – Web & API Testing
+🔗 https://github.com/daulises/qa-testing-project-final
 
-Me enfoco en identificar errores que impactan la experiencia del usuario y en asegurar la calidad del software mediante pruebas estructuradas y análisis de requisitos.
+Proyecto completo de testing QA enfocado en validación funcional, API testing y detección de defectos en una aplicación de pedidos y repartidores.
 
-Actualmente busco una oportunidad como QA Engineer Jr donde pueda aportar valor desde el primer día.
+✔ Pruebas funcionales, exploratorias y de regresión  
+✔ Validación de API REST con Postman  
+✔ Verificación de consistencia en base de datos  
+✔ Documentación de bugs con evidencia real  
 
-- 🧰 Tools: **Postman, Jira, Chrome DevTools, Pytest, Figma, Android Studio, Cypress, Selemium WebDriver, Git**
+📊 **Impacto:**
+- Identificación de defectos críticos en endpoints de API  
+- Errores en validación de datos  
+- Inconsistencias entre backend y base de datos  
 
 ---
 
-## Featured Projects
+## 📂 Otros proyectos
+
 | Project | Focus | Key Deliverables |
-|---|---|---|
+|--------|------|------------------|
 | **[Urban Grocers – Test Design](https://github.com/daulises/urban-grocers-test-design)** | Test design & business rules | Test cases, structured documentation |
-| **[Urban Routes – Equivalence Testing](https://github.com/daulises/urban-routes-equivalence-testing)** | Equivalence classes | Positive/negative scenarios, coverage |
-| **[Urban Routes – Regression Testing](https://github.com/daulises/urban-routes-regression-testing)** | Regression validation | Stability checks after changes/fixes |
-| **[Urban Routes – Car Sharing](https://github.com/daulises/urban-Routers-Car-Sharing)** | User flows validation | Functional scenarios & QA documentation |
+| **[Urban Routes – Equivalence Testing](https://github.com/daulises/urban-routes-equivalence-testing)** | Equivalence classes | Positive/negative scenarios |
+| **[Urban Routes – Regression Testing](https://github.com/daulises/urban-routes-regression-testing)** | Regression validation | Stability checks |
+| **[Urban Routes – Car Sharing](https://github.com/daulises/urban-Routers-car-Sharing)** | User flow validation | Functional scenarios |
 
 ---
 
-## Resume
-📄 **Download my resume:** [CV - Daniel Ulises Chávez Morales](assets/resume.pdf)
+## 📄 Resume
+👉 [Descargar CV - Daniel Ulises Chávez Morales](assets/resume.pdf)
 
 ---
 
-## Get in touch
+## 📬 Contacto
 - 💼 LinkedIn: https://www.linkedin.com/in/daniel-ulises-chavez-morales/  
 - ✉️ Email: daulisescm@gmail.com  
-- 👤 Facebook: https://www.facebook.com/Daulises
-
