@@ -6,7 +6,7 @@
 <h1 align="center">QA Engineer</h1>
 
 <p align="center">
-  QA Engineer Jr | Web Testing | API Testing | Selenium | Postman
+  QA Engineer | Web Testing | Manual Testing | API Testing | Selenium | Postman
 </p>
 
 <p align="center">
