@@ -29,7 +29,7 @@
 
 ## 🚀 About Me
 
-QA Engineer Jr con experiencia práctica en pruebas funcionales, de regresión y API testing.
+QA Engineer con experiencia práctica en pruebas funcionales, de regresión y API testing.
 
 He trabajado en validación de aplicaciones web y sistemas backend, diseñando casos de prueba efectivos, ejecutando escenarios críticos y detectando defectos que impactan la lógica de negocio y la experiencia del usuario.
 
